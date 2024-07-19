@@ -1,0 +1,7 @@
+Checks:
+  *,
+  -style-enforce-port-suffix
+
+CheckConfigs:
+  clkName: CLK,
+  resetName: RST

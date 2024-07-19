@@ -1,0 +1,4 @@
+# verilator
+/obj_dir/
+coverage.dat
+*.dat
